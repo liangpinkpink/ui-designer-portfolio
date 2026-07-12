@@ -1,0 +1,22 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-label="Future Display project cover">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#091018"/><stop offset="0.55" stop-color="#152337"/><stop offset="1" stop-color="#050505"/></linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff" stop-opacity="0.22"/><stop offset="1" stop-color="#ffffff" stop-opacity="0.04"/></linearGradient>
+    <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff6a00"/><stop offset="1" stop-color="#ffd29a"/></linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="34"/></filter>
+    <filter id="shadow"><feDropShadow dx="0" dy="28" stdDeviation="30" flood-color="#000" flood-opacity="0.55"/></filter>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <g filter="url(#blur)" opacity="0.8"><circle cx="1280" cy="160" r="230" fill="#ff6a00" opacity="0.34"/><circle cx="240" cy="760" r="260" fill="#7f8cff" opacity="0.18"/></g>
+  <g opacity="0.12" stroke="#fff" stroke-width="1"><path d="M0 160H1600M0 320H1600M0 480H1600M0 640H1600M0 800H1600M200 0V1000M400 0V1000M600 0V1000M800 0V1000M1000 0V1000M1200 0V1000M1400 0V1000"/></g>
+  <g transform="translate(110 92)"><text fill="#ff6a00" font-family="Arial, sans-serif" font-size="42" font-weight="900">Brand Website</text><text y="72" fill="#fff" font-family="Arial, sans-serif" font-size="84" font-weight="900">Future Display</text><text y="124" fill="#d8d2ca" font-family="Arial, sans-serif" font-size="28">Realistic portfolio placeholder · replace with your final case image</text></g>
+  <g transform="translate(160 265)" filter="url(#shadow)">
+  <rect width="1280" height="610" rx="34" fill="#101113" stroke="#ffffff" stroke-opacity="0.18"/>
+  <rect x="34" y="34" width="212" height="542" rx="20" fill="#070707" stroke="#fff" stroke-opacity="0.1"/>
+  <g fill="#fff" opacity="0.72"><rect x="66" y="76" width="112" height="18" rx="9"/><rect x="66" y="136" width="148" height="14" rx="7" opacity="0.42"/><rect x="66" y="182" width="116" height="14" rx="7" opacity="0.32"/><rect x="66" y="228" width="142" height="14" rx="7" opacity="0.32"/></g>
+  <rect x="290" y="54" width="420" height="188" rx="24" fill="url(#glass)" stroke="#fff" stroke-opacity="0.16"/><rect x="748" y="54" width="434" height="188" rx="24" fill="url(#glass)" stroke="#fff" stroke-opacity="0.16"/>
+  <path d="M334 192C396 96 472 176 538 120S628 102 680 160" fill="none" stroke="url(#orange)" stroke-width="10" stroke-linecap="round"/>
+  <g transform="translate(790 90)"><circle cx="82" cy="72" r="70" fill="none" stroke="#fff" stroke-opacity="0.16" stroke-width="24"/><path d="M82 2a70 70 0 0 1 63 100" fill="none" stroke="url(#orange)" stroke-width="24" stroke-linecap="round"/></g>
+  <rect x="290" y="286" width="892" height="250" rx="24" fill="#0a0a0a" stroke="#fff" stroke-opacity="0.12"/><g transform="translate(334 328)" fill="$accent" opacity="0.9"><rect width="72" height="164" rx="10"/><rect x="112" y="78" width="72" height="86" rx="10" opacity="0.78"/><rect x="224" y="42" width="72" height="122" rx="10" opacity="0.86"/><rect x="336" y="110" width="72" height="54" rx="10" opacity="0.68"/><rect x="448" y="18" width="72" height="146" rx="10" opacity="0.94"/><rect x="560" y="68" width="72" height="96" rx="10" opacity="0.76"/></g>
+</g>
+</svg>

@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-label="Data Center project cover">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080d14"/><stop offset="0.55" stop-color="#141b2e"/><stop offset="1" stop-color="#050505"/></linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff" stop-opacity="0.22"/><stop offset="1" stop-color="#ffffff" stop-opacity="0.04"/></linearGradient>
+    <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff6a00"/><stop offset="1" stop-color="#ffd29a"/></linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="34"/></filter>
+    <filter id="shadow"><feDropShadow dx="0" dy="28" stdDeviation="30" flood-color="#000" flood-opacity="0.55"/></filter>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <g filter="url(#blur)" opacity="0.8"><circle cx="1280" cy="160" r="230" fill="#ff6a00" opacity="0.34"/><circle cx="240" cy="760" r="260" fill="#7f8cff" opacity="0.18"/></g>
+  <g opacity="0.12" stroke="#fff" stroke-width="1"><path d="M0 160H1600M0 320H1600M0 480H1600M0 640H1600M0 800H1600M200 0V1000M400 0V1000M600 0V1000M800 0V1000M1000 0V1000M1200 0V1000M1400 0V1000"/></g>
+  <g transform="translate(110 92)"><text fill="#ff6a00" font-family="Arial, sans-serif" font-size="42" font-weight="900">Dashboard</text><text y="72" fill="#fff" font-family="Arial, sans-serif" font-size="84" font-weight="900">Data Center</text><text y="124" fill="#d8d2ca" font-family="Arial, sans-serif" font-size="28">Realistic portfolio placeholder · replace with your final case image</text></g>
+  <g transform="translate(150 255)" filter="url(#shadow)">
+  <rect width="1300" height="570" rx="34" fill="#07090d" stroke="#fff" stroke-opacity="0.16"/>
+  <rect x="54" y="54" width="1192" height="92" rx="22" fill="#111827"/><rect x="92" y="86" width="280" height="26" rx="13" fill="#fff" opacity="0.78"/><rect x="1034" y="78" width="150" height="42" rx="21" fill="url(#orange)"/>
+  <g transform="translate(68 194)"><rect width="356" height="306" rx="24" fill="#0e1522"/><path d="M38 240C98 146 154 194 206 112s86-42 116-78" fill="none" stroke="url(#orange)" stroke-width="8" stroke-linecap="round"/><g fill="#fff" opacity="0.18"><rect x="38" y="56" width="90" height="18" rx="9"/><rect x="38" y="94" width="130" height="14" rx="7"/></g></g>
+  <g transform="translate(466 194)"><rect width="350" height="306" rx="24" fill="#0e1522"/><circle cx="176" cy="154" r="92" fill="none" stroke="#fff" stroke-opacity="0.14" stroke-width="28"/><path d="M176 62a92 92 0 1 1-78 140" fill="none" stroke="$accent" stroke-width="28" stroke-linecap="round"/></g>
+  <g transform="translate(858 194)"><rect width="356" height="306" rx="24" fill="#0e1522"/><g fill="$accent"><rect x="46" y="210" width="44" height="48" rx="8"/><rect x="116" y="150" width="44" height="108" rx="8"/><rect x="186" y="86" width="44" height="172" rx="8"/><rect x="256" y="122" width="44" height="136" rx="8"/></g></g>
+</g>
+</svg>

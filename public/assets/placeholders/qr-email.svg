@@ -1,0 +1,6 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="EMAIL 二维码占位">
+  <rect width="240" height="240" fill="#121212"/>
+  <rect x="18" y="18" width="204" height="204" fill="none" stroke="#3a3a3a" stroke-width="2"/>
+  <g fill="#f1eee8"><rect x="34" y="34" width="48" height="48"/><rect x="158" y="34" width="48" height="48"/><rect x="34" y="158" width="48" height="48"/><rect x="46" y="46" width="24" height="24" fill="#121212"/><rect x="170" y="46" width="24" height="24" fill="#121212"/><rect x="46" y="170" width="24" height="24" fill="#121212"/><rect x="104" y="40" width="14" height="14"/><rect x="126" y="62" width="14" height="14"/><rect x="102" y="98" width="22" height="22"/><rect x="138" y="100" width="12" height="12"/><rect x="164" y="120" width="18" height="18"/><rect x="94" y="146" width="12" height="12"/><rect x="122" y="152" width="22" height="22"/><rect x="158" y="170" width="38" height="12"/><rect x="188" y="144" width="14" height="14"/><rect x="100" y="190" width="18" height="18"/></g>
+  <text x="120" y="130" fill="#ff6a00" font-family="Arial, sans-serif" font-size="16" font-weight="800" text-anchor="middle">EMAIL</text>
+</svg>
